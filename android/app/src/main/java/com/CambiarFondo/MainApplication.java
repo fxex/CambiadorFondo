@@ -1,4 +1,4 @@
-package com.prueba;
+package com.CambiarFondo;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

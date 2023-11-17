@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.prueba"
+    namespace "com.CambiarFondo"
     defaultConfig {
-        applicationId "com.prueba"
+        applicationId "com.CambiarFondo"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

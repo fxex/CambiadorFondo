@@ -1,4 +1,4 @@
-package com.prueba;
+package com.CambiarFondo;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
